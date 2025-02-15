@@ -18,3 +18,4 @@ The project was developed as part of an **AI/ML internship**, where the goal was
 ```sh
 git clone https://github.com/SohamAI99/real-time-object-detection.git
 cd real-time-object-detection
+Author:Soham Lamb
